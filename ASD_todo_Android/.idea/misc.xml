@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo120200759/ASD_todo_Android/app/src/main/res/drawable/_arrow_left_24.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo120200759/ASD_todo_Android/app/src/main/res/layout/activity_add_task.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo120200759/ASD_todo_Android/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo120200759/ASD_todo_Android/app/src/main/res/layout/activity_splach.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo120200759/ASD_todo_Android/app/src/main/res/layout/design_task_recycle_view.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo_Android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.137" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo_Android/app/src/main/res/drawable/card_background.xml" value="0.137" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo_Android/app/src/main/res/drawable/edit_text_back_ground.xml" value="0.134" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo_Android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo_Android/app/src/main/res/drawable/ic_round_access_time_24.xml" value="0.137" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo_Android/app/src/main/res/drawable/ic_round_add_24.xml" value="0.137" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo_Android/app/src/main/res/drawable/ic_round_arrow_back_ios_24.xml" value="0.137" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo_Android/app/src/main/res/drawable/tab_item_background.xml" value="0.137" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo_Android/app/src/main/res/drawable/tasck_back_ground.xml" value="0.16" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo_Android/app/src/main/res/font/amita.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo_Android/app/src/main/res/layout/activity_add_task.xml" value="0.22" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo_Android/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo_Android/app/src/main/res/layout/activity_splach.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/StudioProjects/ASD_todo_Android/app/src/main/res/layout/design_task_recycle_view.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

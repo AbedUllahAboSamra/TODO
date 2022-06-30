@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string-array name="myASRR" >
+        <item  >5 minutes</item>
+        <item >10 minutes</item>
+        <item >15 minutes</item>
+        <item >never</item>
+    </string-array>
+    <string-array name="repeate" >
+        <item >none</item>
+
+        <item  >daily</item>
+        <item >weakly</item>
+        <item >never</item>
+    </string-array>
+</resources>
